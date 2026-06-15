@@ -1,6 +1,6 @@
 # llama.brand
 
-Official brand assets for **Llama** and **Llama.cpp**.
+Official brand assets for **Llama.app** and **Llama.cpp**.
 
 ---
 

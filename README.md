@@ -46,4 +46,6 @@ Official brand assets for **Llama.app** and **Llama.cpp**.
 
 ## License
 
-See [`LICENSE`](./LICENSE) for usage terms.
+Assets are licensed under CC BY-NC 4.0, see [`LICENSE`](./LICENSE).
+
+Distributions, packagers, and anyone referring to the project should read [`BRAND-USAGE.md`](./BRAND-USAGE.md), which grants the permissions that use needs.

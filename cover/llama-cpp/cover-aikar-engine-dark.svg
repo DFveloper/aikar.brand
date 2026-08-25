@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="7500" height="2500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_34" transform="translate(-10 0) translate(0 10) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(0 10) translate(10 0) translate(10 0) translate(10 0) translate(10 0) translate(10 0) matrix(1.31256 0 0 1.31256 -1977.2 -513.238)">
+   <g id="svg_13" transform="matrix(1 0 0 1 -520 10)">
+    <text fill="#09e316" font-family="Courier" font-size="407.49" font-weight="bold" id="svg_8" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="5990" xml:space="preserve" y="1396.67">-engine</text>
+    <text fill="#000000" font-family="Courier" font-size="407.49" font-weight="bold" id="svg_12" stroke="#ff0000" stroke-width="0" text-anchor="middle" x="4460" xml:space="preserve" y="1396.67">aikar</text>
+   </g>
+   <g id="svg_33" transform="matrix(1 0 0 1 710 20)">
+    <path d="m1521.1,1622.04l0,-800l800,800z" fill="#000000" id="svg_23" stroke="#000000" stroke-opacity="0" stroke-width="10"/>
+    <path d="m1860,1176.67c790,-220 850,110 60,310c-790,200 -850,-90 -60,-310z" fill="none" id="svg_29" stroke="#09e316" stroke-width="50"/>
+    <path d="m1525.75,1372.56l0,-542.5l542.5,542.5z" fill="#000000" id="svg_32" stroke="#000000" stroke-opacity="0" stroke-width="50"/>
+   </g>
+  </g>
+ </g>
+</svg>
